@@ -1,0 +1,7 @@
+C:\Users\Bruno Ciccio\Desktop\CountriesApi\obj\Debug\net8.0\CountriesApi.csproj.AssemblyReference.cache
+C:\Users\Bruno Ciccio\Desktop\CountriesApi\obj\Debug\net8.0\CountriesApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Ciccio\Desktop\CountriesApi\obj\Debug\net8.0\CountriesApi.AssemblyInfoInputs.cache
+C:\Users\Bruno Ciccio\Desktop\CountriesApi\obj\Debug\net8.0\CountriesApi.AssemblyInfo.cs
+C:\Users\Bruno Ciccio\Desktop\CountriesApi\obj\Debug\net8.0\CountriesApi.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Ciccio\Desktop\CountriesApi\obj\Debug\net8.0\CountriesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bruno Ciccio\Desktop\CountriesApi\obj\Debug\net8.0\CountriesApi.MvcApplicationPartsAssemblyInfo.cache
